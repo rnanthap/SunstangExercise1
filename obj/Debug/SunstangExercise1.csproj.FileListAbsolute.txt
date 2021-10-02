@@ -1,0 +1,10 @@
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Session2\SunstangExercise1\bin\Debug\SunstangExercise1.exe.config
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Session2\SunstangExercise1\bin\Debug\SunstangExercise1.exe
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Session2\SunstangExercise1\bin\Debug\SunstangExercise1.pdb
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Session2\SunstangExercise1\obj\Debug\SunstangExercise1.csproj.AssemblyReference.cache
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Session2\SunstangExercise1\obj\Debug\SunstangExercise1.Properties.Resources.resources
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Session2\SunstangExercise1\obj\Debug\SunstangExercise1.csproj.GenerateResource.cache
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Session2\SunstangExercise1\obj\Debug\SunstangExercise1.csproj.CoreCompileInputs.cache
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Session2\SunstangExercise1\obj\Debug\SunstangExercise1.exe
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Session2\SunstangExercise1\obj\Debug\SunstangExercise1.pdb
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Session2\SunstangExercise1\obj\Debug\SunstangExercise1.Form1.resources
